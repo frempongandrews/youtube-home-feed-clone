@@ -6,6 +6,17 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+
+	/* remove blue text selection from all elements */
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+body {
+	/* remove scrollbar */
+	overflow-y: hidden;
 }
 
 main {

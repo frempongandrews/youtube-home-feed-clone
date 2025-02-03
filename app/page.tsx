@@ -6,7 +6,7 @@ export default function Home() {
 			<main>
 				{/* content */}
 				<div className="content">
-					<a href="/">content</a>
+					<p className="cursor-pointer">content</p>
 				</div>
 				{/* end content */}
 				<img src="/iphone-15-mockup.png" width="300px" />
