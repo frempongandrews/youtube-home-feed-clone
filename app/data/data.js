@@ -1,5 +1,18 @@
 export const posts = [
 	{
+		id: "3",
+		imageUrl: "/posts/feed-3.jpeg",
+		title: "The Secret to Lanching a Business Fast (For $0)",
+		user: {
+			id: "3",
+			username: "Stu McLaren",
+			imageUrl: "/users/stu-profile.jpg",
+		},
+		createdAtTime: "4 months ago",
+		viewCount: "1.2K",
+		duration: "10:34",
+	},
+	{
 		id: "1",
 		imageUrl: "/posts/feed-1.jpeg",
 		title: "50 Youtubers Fight For $1,000,000",
@@ -24,20 +37,6 @@ export const posts = [
 		createdAtTime: "8 months ago",
 		viewCount: "653K",
 		duration: "1:25:24",
-	},
-
-	{
-		id: "3",
-		imageUrl: "/posts/feed-3.png",
-		title: "The Secret to Lanching a Business Fast (For $0)",
-		user: {
-			id: "3",
-			username: "Stu McLaren",
-			imageUrl: "/users/stu-profile.jpg",
-		},
-		createdAtTime: "4 months ago",
-		viewCount: "1.2K",
-		duration: "10:34",
 	},
 ];
 

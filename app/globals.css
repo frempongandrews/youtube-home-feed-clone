@@ -29,13 +29,26 @@ main {
 	align-items: center;
 }
 .content {
-	padding: 15px 4px;
+	padding: 15px 0px;
 	background: white;
 	position: absolute;
-	border: 1px solid white;
+	/* border: 1px solid white; */
 	top: 25px;
 	left: 74px;
 	height: 541px;
 	width: 250px;
 	border-radius: 30px;
+}
+
+.alice-carousel__stage li {
+	/* margin: 0 !important; */
+	/* padding: 0 !important; */
+	width: fit-content !important;
+}
+
+.alice-carousel__stage {
+	/* background-color: aqua; */
+	line-height: 25px;
+	height: 30px !important;
+	padding-bottom: 4px !important;
 }
