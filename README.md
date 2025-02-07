@@ -1,6 +1,6 @@
 # Nextjs mobile app screens projects Template
 
-![Image Alt Text](public/screenshot-1.png)
+![Image Alt Text](public/screenshot.png)
 
 ## Getting Started
 
